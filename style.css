@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #1b1b1b;
+    color: #fff;
+}
+
+.container {
+    margin-top: 50px;
+    background: #242424;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 4px 10px rgba(0, 255, 204, 0.3);
+}
+
+video {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #00ffcc;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #00ffcc;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #00cca3;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
